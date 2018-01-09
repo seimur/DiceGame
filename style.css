@@ -1,0 +1,8 @@
+body {
+    background-color: #eee;
+}
+
+.picture1, .picture2, .picture3{
+    height: 100px;
+    width: 100px;
+}
